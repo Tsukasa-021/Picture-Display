@@ -1,0 +1,10 @@
+{
+  "name": "picture-display",
+  "version": "1.0.0",
+  "description": "暖光集 · 图片画廊",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
